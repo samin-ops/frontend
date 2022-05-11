@@ -1,0 +1,14 @@
+
+.app{
+    border: 1px dashed black;
+    height: 40px;
+    width: 400px;
+    padding: 30px;
+    margin: auto;
+    background-color: #00FFFF;
+    border-radius: 10px;
+
+}
+input{
+    text-align: center;
+}
